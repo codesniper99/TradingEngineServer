@@ -1,2 +1,12 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Hosting;
+using TradingEngineServer.Core;
+
+// using keyword removes unmanaged resources
+using var engine = TradingEngineServerHostBuilder.BuildTradingEngineServer();
+TradingEngineServerServiceProvider.ServiceProvider = engine.Services;
+{
+    using var scope = TradingEngineServerServiceProvider.ServiceProvider.CreateScope();
+    await engine.RunAsync().ConfigureAwait(false);
+}

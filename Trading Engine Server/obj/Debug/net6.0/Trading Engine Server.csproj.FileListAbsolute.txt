@@ -1,0 +1,49 @@
+C:\Users\akhil\OneDrive\Desktop\TradingEngineServer\TradingEngineServer\Trading Engine Server\obj\Debug\net6.0\Trading Engine Server.csproj.AssemblyReference.cache
+C:\Users\akhil\OneDrive\Desktop\TradingEngineServer\TradingEngineServer\Trading Engine Server\obj\Debug\net6.0\Trading Engine Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akhil\OneDrive\Desktop\TradingEngineServer\TradingEngineServer\Trading Engine Server\obj\Debug\net6.0\Trading Engine Server.AssemblyInfoInputs.cache
+C:\Users\akhil\OneDrive\Desktop\TradingEngineServer\TradingEngineServer\Trading Engine Server\obj\Debug\net6.0\Trading Engine Server.AssemblyInfo.cs
+C:\Users\akhil\OneDrive\Desktop\TradingEngineServer\TradingEngineServer\Trading Engine Server\obj\Debug\net6.0\Trading Engine Server.csproj.CoreCompileInputs.cache
+C:\Users\akhil\OneDrive\Desktop\TradingEngineServer\TradingEngineServer\Trading Engine Server\bin\Debug\net6.0\TradingEngineServer.Core.exe
+C:\Users\akhil\OneDrive\Desktop\TradingEngineServer\TradingEngineServer\Trading Engine Server\bin\Debug\net6.0\appsettings.json
+C:\Users\akhil\OneDrive\Desktop\TradingEngineServer\TradingEngineServer\Trading Engine Server\bin\Debug\net6.0\TradingEngineServer.Core.deps.json
+C:\Users\akhil\OneDrive\Desktop\TradingEngineServer\TradingEngineServer\Trading Engine Server\bin\Debug\net6.0\TradingEngineServer.Core.runtimeconfig.json
+C:\Users\akhil\OneDrive\Desktop\TradingEngineServer\TradingEngineServer\Trading Engine Server\bin\Debug\net6.0\TradingEngineServer.Core.dll
+C:\Users\akhil\OneDrive\Desktop\TradingEngineServer\TradingEngineServer\Trading Engine Server\bin\Debug\net6.0\TradingEngineServer.Core.pdb
+C:\Users\akhil\OneDrive\Desktop\TradingEngineServer\TradingEngineServer\Trading Engine Server\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\akhil\OneDrive\Desktop\TradingEngineServer\TradingEngineServer\Trading Engine Server\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\akhil\OneDrive\Desktop\TradingEngineServer\TradingEngineServer\Trading Engine Server\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\akhil\OneDrive\Desktop\TradingEngineServer\TradingEngineServer\Trading Engine Server\bin\Debug\net6.0\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\akhil\OneDrive\Desktop\TradingEngineServer\TradingEngineServer\Trading Engine Server\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\akhil\OneDrive\Desktop\TradingEngineServer\TradingEngineServer\Trading Engine Server\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\akhil\OneDrive\Desktop\TradingEngineServer\TradingEngineServer\Trading Engine Server\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\akhil\OneDrive\Desktop\TradingEngineServer\TradingEngineServer\Trading Engine Server\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\akhil\OneDrive\Desktop\TradingEngineServer\TradingEngineServer\Trading Engine Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\akhil\OneDrive\Desktop\TradingEngineServer\TradingEngineServer\Trading Engine Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\akhil\OneDrive\Desktop\TradingEngineServer\TradingEngineServer\Trading Engine Server\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\akhil\OneDrive\Desktop\TradingEngineServer\TradingEngineServer\Trading Engine Server\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\akhil\OneDrive\Desktop\TradingEngineServer\TradingEngineServer\Trading Engine Server\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\akhil\OneDrive\Desktop\TradingEngineServer\TradingEngineServer\Trading Engine Server\bin\Debug\net6.0\Microsoft.Extensions.Hosting.dll
+C:\Users\akhil\OneDrive\Desktop\TradingEngineServer\TradingEngineServer\Trading Engine Server\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\akhil\OneDrive\Desktop\TradingEngineServer\TradingEngineServer\Trading Engine Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\akhil\OneDrive\Desktop\TradingEngineServer\TradingEngineServer\Trading Engine Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\akhil\OneDrive\Desktop\TradingEngineServer\TradingEngineServer\Trading Engine Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\akhil\OneDrive\Desktop\TradingEngineServer\TradingEngineServer\Trading Engine Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\akhil\OneDrive\Desktop\TradingEngineServer\TradingEngineServer\Trading Engine Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\akhil\OneDrive\Desktop\TradingEngineServer\TradingEngineServer\Trading Engine Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\akhil\OneDrive\Desktop\TradingEngineServer\TradingEngineServer\Trading Engine Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\akhil\OneDrive\Desktop\TradingEngineServer\TradingEngineServer\Trading Engine Server\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\akhil\OneDrive\Desktop\TradingEngineServer\TradingEngineServer\Trading Engine Server\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\akhil\OneDrive\Desktop\TradingEngineServer\TradingEngineServer\Trading Engine Server\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\akhil\OneDrive\Desktop\TradingEngineServer\TradingEngineServer\Trading Engine Server\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\akhil\OneDrive\Desktop\TradingEngineServer\TradingEngineServer\Trading Engine Server\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\akhil\OneDrive\Desktop\TradingEngineServer\TradingEngineServer\Trading Engine Server\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\akhil\OneDrive\Desktop\TradingEngineServer\TradingEngineServer\Trading Engine Server\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\akhil\OneDrive\Desktop\TradingEngineServer\TradingEngineServer\Trading Engine Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\akhil\OneDrive\Desktop\TradingEngineServer\TradingEngineServer\Trading Engine Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\akhil\OneDrive\Desktop\TradingEngineServer\TradingEngineServer\Trading Engine Server\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\akhil\OneDrive\Desktop\TradingEngineServer\TradingEngineServer\Trading Engine Server\obj\Debug\net6.0\Trading Engine Server.csproj.CopyComplete
+C:\Users\akhil\OneDrive\Desktop\TradingEngineServer\TradingEngineServer\Trading Engine Server\obj\Debug\net6.0\TradingEngineServer.Core.dll
+C:\Users\akhil\OneDrive\Desktop\TradingEngineServer\TradingEngineServer\Trading Engine Server\obj\Debug\net6.0\refint\TradingEngineServer.Core.dll
+C:\Users\akhil\OneDrive\Desktop\TradingEngineServer\TradingEngineServer\Trading Engine Server\obj\Debug\net6.0\TradingEngineServer.Core.pdb
+C:\Users\akhil\OneDrive\Desktop\TradingEngineServer\TradingEngineServer\Trading Engine Server\obj\Debug\net6.0\Trading Engine Server.genruntimeconfig.cache
+C:\Users\akhil\OneDrive\Desktop\TradingEngineServer\TradingEngineServer\Trading Engine Server\obj\Debug\net6.0\ref\TradingEngineServer.Core.dll

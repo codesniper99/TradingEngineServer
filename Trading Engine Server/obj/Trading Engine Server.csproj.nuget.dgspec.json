@@ -8,7 +8,7 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "C:\\Users\\akhil\\OneDrive\\Desktop\\TradingEngineServer\\TradingEngineServer\\Trading Engine Server\\Trading Engine Server.csproj",
-        "projectName": "Trading Engine Server",
+        "projectName": "TradingEngineServer.Core",
         "projectPath": "C:\\Users\\akhil\\OneDrive\\Desktop\\TradingEngineServer\\TradingEngineServer\\Trading Engine Server\\Trading Engine Server.csproj",
         "packagesPath": "C:\\Users\\akhil\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\akhil\\OneDrive\\Desktop\\TradingEngineServer\\TradingEngineServer\\Trading Engine Server\\obj\\",
@@ -44,6 +44,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
