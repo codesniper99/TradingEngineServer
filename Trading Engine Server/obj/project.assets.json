@@ -646,6 +646,19 @@
         "build": {
           "buildTransitive/net6.0/System.Text.Json.targets": {}
         }
+      },
+      "TradingEngineServer.Logging/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.Extensions.Options": "7.0.1"
+        },
+        "compile": {
+          "bin/placeholder/TradingEngineServer.Logging.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TradingEngineServer.Logging.dll": {}
+        }
       }
     }
   },
@@ -1572,11 +1585,17 @@
         "system.text.json.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "TradingEngineServer.Logging/1.0.0": {
+      "type": "project",
+      "path": "../LoggingCS/LoggingCS/LoggingCS.csproj",
+      "msbuildProject": "../LoggingCS/LoggingCS/LoggingCS.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Microsoft.Extensions.Hosting >= 7.0.1"
+      "Microsoft.Extensions.Hosting >= 7.0.1",
+      "TradingEngineServer.Logging >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1611,7 +1630,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\akhil\\OneDrive\\Desktop\\TradingEngineServer\\TradingEngineServer\\LoggingCS\\LoggingCS\\LoggingCS.csproj": {
+              "projectPath": "C:\\Users\\akhil\\OneDrive\\Desktop\\TradingEngineServer\\TradingEngineServer\\LoggingCS\\LoggingCS\\LoggingCS.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

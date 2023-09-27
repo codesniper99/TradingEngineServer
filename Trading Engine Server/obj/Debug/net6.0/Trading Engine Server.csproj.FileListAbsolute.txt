@@ -47,3 +47,5 @@ C:\Users\akhil\OneDrive\Desktop\TradingEngineServer\TradingEngineServer\Trading 
 C:\Users\akhil\OneDrive\Desktop\TradingEngineServer\TradingEngineServer\Trading Engine Server\obj\Debug\net6.0\TradingEngineServer.Core.pdb
 C:\Users\akhil\OneDrive\Desktop\TradingEngineServer\TradingEngineServer\Trading Engine Server\obj\Debug\net6.0\Trading Engine Server.genruntimeconfig.cache
 C:\Users\akhil\OneDrive\Desktop\TradingEngineServer\TradingEngineServer\Trading Engine Server\obj\Debug\net6.0\ref\TradingEngineServer.Core.dll
+C:\Users\akhil\OneDrive\Desktop\TradingEngineServer\TradingEngineServer\Trading Engine Server\bin\Debug\net6.0\TradingEngineServer.Logging.dll
+C:\Users\akhil\OneDrive\Desktop\TradingEngineServer\TradingEngineServer\Trading Engine Server\bin\Debug\net6.0\TradingEngineServer.Logging.pdb
