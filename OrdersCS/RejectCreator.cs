@@ -10,6 +10,7 @@ namespace TradingEngineServer.Rejects
     public sealed class RejectCreator
     {
         // Rejection creator
+
         public static Rejection GenerateOrderCoreRejection(IOrderCore rejectedOrder, RejectionReason rejectionReason)
         {
             return new Rejection(rejectedOrder, rejectionReason);
